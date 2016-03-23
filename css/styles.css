@@ -1,0 +1,50 @@
+.jumbotron {
+  text-align: center;
+  color: coral;
+  background-color: aqua;
+}
+
+@@font-face {
+  font-family: dolphins;
+  src: url(dolphins.ttf);
+}
+
+
+.jumbotron h1 {
+    font-size: 100pt;
+    font-weight: bolder;
+    font-family: dolphins;
+}
+
+.container {
+  max-width: 1000px;
+}
+
+#output-add{
+  font-size: 100pt;
+  color: coral;
+  padding-top: 8%;
+  text-align: center;
+  text-shadow: 5px 5px aqua;
+}
+#output-subtract {
+  font-size: 100pt;
+  color: coral;
+  padding-top: 8%;
+  text-align: center;
+  text-shadow: 5px 5px aqua;
+}
+#output-multiply {
+  font-size: 100pt;
+  color: coral;
+  padding-top: 8%;
+  text-align: center;
+  text-shadow: 5px 5px aqua;
+}
+#output-divide {
+  font-size: 100pt;
+  color: coral;
+  padding-top: 8%;
+  text-align: center;
+  text-shadow: 5px 5px aqua;
+}
